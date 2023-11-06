@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @hexni
+# Hello, I'm Hexni 👋
+
+I'm currently an IT apprentice, learning and growing my skillset. I have a passion for tinkering with Raspberry Pi and electronics.
 - 👀 I’m interested in 01
 - 🌱 I'm learning everything that's interesting to me at the moment. 
 
