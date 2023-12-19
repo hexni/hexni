@@ -1,7 +1,5 @@
-# Hello, I'm Hexni 👋
-
-I'm currently an IT apprentice, learning and growing my skillset. 
-I have a passion for tinkering with Raspberry Pi and electronics.
+/ I'm currently an IT apprentice, learning and growing my skillset. 
+/ I have a passion for tinkering with Raspberry Pi and electronics.
 ### Hi there 👋
 * 👂 My name is ...
 * 👩 Pronouns: ...
